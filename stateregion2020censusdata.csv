@@ -1,52 +1,52 @@
-location,State Code,Region,Division,Country,POPESTIMATE2020
-Alaska,AK,West,Pacific,United States,733391
-Alabama,AL,South,East South Central,United States,5024279
-Arkansas,AR,South,West South Central,United States,3011524
-Arizona,AZ,West,Mountain,United States,7151502
-California,CA,West,Pacific,United States,39538223
-Colorado,CO,West,Mountain,United States,5773714
-Connecticut,CT,Northeast,New England,United States,3605944
-District of Columbia,DC,South,South Atlantic,United States,689545
-Delaware,DE,South,South Atlantic,United States,989948
-Florida,FL,South,South Atlantic,United States,21538187
-Georgia,GA,South,South Atlantic,United States,10711908
-Hawaii,HI,West,Pacific,United States,1455271
-Iowa,IA,Midwest,West North Central,United States,3190369
-Idaho,ID,West,Mountain,United States,1839106
-Illinois,IL,Midwest,East North Central,United States,12812508
-Indiana,IN,Midwest,East North Central,United States,6785528
-Kansas,KS,Midwest,West North Central,United States,2937880
-Kentucky,KY,South,East South Central,United States,4505836
-Louisiana,LA,South,West South Central,United States,4657757
-Massachusetts,MA,Northeast,New England,United States,7029917
-Maryland,MD,South,South Atlantic,United States,6177224
-Maine,ME,Northeast,New England,United States,1362359
-Michigan,MI,Midwest,East North Central,United States,10077331
-Minnesota,MN,Midwest,West North Central,United States,5706494
-Missouri,MO,Midwest,West North Central,United States,6154913
-Mississippi,MS,South,East South Central,United States,2961279
-Montana,MT,West,Mountain,United States,1084225
-North Carolina,NC,South,South Atlantic,United States,10439388
-North Dakota,ND,Midwest,West North Central,United States,779094
-Nebraska,NE,Midwest,West North Central,United States,1961504
-New Hampshire,NH,Northeast,New England,United States,1377529
-New Jersey,NJ,Northeast,Middle Atlantic,United States,9288994
-New Mexico,NM,West,Mountain,United States,2117522
-Nevada,NV,West,Mountain,United States,3104614
-New York State,NY,Northeast,Middle Atlantic,United States,20201249
-Ohio,OH,Midwest,East North Central,United States,11799448
-Oklahoma,OK,South,West South Central,United States,3959353
-Oregon,OR,West,Pacific,United States,4237256
-Pennsylvania,PA,Northeast,Middle Atlantic,United States,13002700
-Rhode Island,RI,Northeast,New England,United States,1097379
-South Carolina,SC,South,South Atlantic,United States,5118425
-South Dakota,SD,Midwest,West North Central,United States,886667
-Tennessee,TN,South,East South Central,United States,6910840
-Texas,TX,South,West South Central,United States,29145505
-Utah,UT,West,Mountain,United States,3271616
-Virginia,VA,South,South Atlantic,United States,8631393
-Vermont,VT,Northeast,New England,United States,643077
-Washington,WA,West,Pacific,United States,7705281
-Wisconsin,WI,Midwest,East North Central,United States,5893718
-West Virginia,WV,South,South Atlantic,United States,1793716
-Wyoming,WY,West,Mountain,United States,576851
+location,State Code,Region,Division,Country,POPESTIMATE2020,POPESTIMATE2020START
+Alaska,AK,West,Pacific,United States,641717,733391
+Alabama,AL,South,East South Central,United States,4396244,5024279
+Arkansas,AR,South,West South Central,United States,2635083,3011524
+Arizona,AZ,West,Mountain,United States,6257564,7151502
+California,CA,West,Pacific,United States,34595945,39538223
+Colorado,CO,West,Mountain,United States,5051999,5773714
+Connecticut,CT,Northeast,New England,United States,3155201,3605944
+District of Columbia,DC,South,South Atlantic,United States,603351,689545
+Delaware,DE,South,South Atlantic,United States,866204,989948
+Florida,FL,South,South Atlantic,United States,18845913,21538187
+Georgia,GA,South,South Atlantic,United States,9372919,10711908
+Hawaii,HI,West,Pacific,United States,1273362,1455271
+Iowa,IA,Midwest,West North Central,United States,2791572,3190369
+Idaho,ID,West,Mountain,United States,1609217,1839106
+Illinois,IL,Midwest,East North Central,United States,11210944,12812508
+Indiana,IN,Midwest,East North Central,United States,5937337,6785528
+Kansas,KS,Midwest,West North Central,United States,2570645,2937880
+Kentucky,KY,South,East South Central,United States,3942606,4505836
+Louisiana,LA,South,West South Central,United States,4075537,4657757
+Massachusetts,MA,Northeast,New England,United States,6151177,7029917
+Maryland,MD,South,South Atlantic,United States,5405071,6177224
+Maine,ME,Northeast,New England,United States,1192064,1362359
+Michigan,MI,Midwest,East North Central,United States,8817664,10077331
+Minnesota,MN,Midwest,West North Central,United States,4993182,5706494
+Missouri,MO,Midwest,West North Central,United States,5385548,6154913
+Mississippi,MS,South,East South Central,United States,2591119,2961279
+Montana,MT,West,Mountain,United States,948696,1084225
+North Carolina,NC,South,South Atlantic,United States,9134464,10439388
+North Dakota,ND,Midwest,West North Central,United States,681707,779094
+Nebraska,NE,Midwest,West North Central,United States,1716316,1961504
+New Hampshire,NH,Northeast,New England,United States,1205337,1377529
+New Jersey,NJ,Northeast,Middle Atlantic,United States,8127869,9288994
+New Mexico,NM,West,Mountain,United States,1852831,2117522
+Nevada,NV,West,Mountain,United States,2716537,3104614
+New York State,NY,Northeast,Middle Atlantic,United States,17676092,20201249
+Ohio,OH,Midwest,East North Central,United States,10324517,11799448
+Oklahoma,OK,South,West South Central,United States,3464433,3959353
+Oregon,OR,West,Pacific,United States,3707599,4237256
+Pennsylvania,PA,Northeast,Middle Atlantic,United States,11377362,13002700
+Rhode Island,RI,Northeast,New England,United States,960206,1097379
+South Carolina,SC,South,South Atlantic,United States,4478621,5118425
+South Dakota,SD,Midwest,West North Central,United States,775833,886667
+Tennessee,TN,South,East South Central,United States,6046985,6910840
+Texas,TX,South,West South Central,United States,25502316,29145505
+Utah,UT,West,Mountain,United States,2862664,3271616
+Virginia,VA,South,South Atlantic,United States,7552468,8631393
+Vermont,VT,Northeast,New England,United States,562692,643077
+Washington,WA,West,Pacific,United States,6742120,7705281
+Wisconsin,WI,Midwest,East North Central,United States,5157003,5893718
+West Virginia,WV,South,South Atlantic,United States,1569501,1793716
+Wyoming,WY,West,Mountain,United States,504744,576851
